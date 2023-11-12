@@ -1,4 +1,6 @@
-### Hi there 👋
+### Desarrollador de Software en ITCA FEPADE 
+
+Lenguajes = -C# -PYTHON -JAVA Nivel básico
 
 <!--
 **AlexxDeleon/AlexxDeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
