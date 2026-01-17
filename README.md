@@ -60,7 +60,7 @@ Español: Nativo
 Inglés: Intermedio
 
 Contacto
-GitHub: AlexxDeleon (Eduardo Deleón)
-LinkedIn: Eduardo Deleón | LinkedIn
+GitHub: AlexxDeleon 
+LinkedIn: [Eduardo Deleón | LinkedIn](https://www.linkedin.com/in/eduardo-dele%C3%B3n-529353324/)
 
 ⭐ Siempre abierto a aprender, mejorar y asumir nuevos retos como desarrollador.
